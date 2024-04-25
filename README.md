@@ -9,8 +9,6 @@
 - 🌱 Always learning web, iOS & Android development
 - 🏔 Hobbies include hiking, Travel, Spain, and Basketball
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=chromesd22159&theme=dracula" />
-
 ![Frederik`s GitHub stats](https://github-readme-stats.vercel.app/api/?username=chromesd22159&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chromesd22159&layout=compact)
 
