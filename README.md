@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🚨 Website: [frederikkohler.de](https://www.frederikkohler.de)
+- 🚨 Website: [https://www.frederikkohler.de](https://www.frederikkohler.de)
 - 🦿 Prosthesis wearer (below-knee amputee)
 - 💻 Software developer
 - 👨‍👧‍👦 Single father
