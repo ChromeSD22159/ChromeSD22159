@@ -1,4 +1,4 @@
-## [![FrederikKohler header](https://github.com/rebelchris/rebelchris/blob/master/assets/social-cover.png)](https://www.frederikkohler.de)
+## [![FrederikKohler header](https://raw.githubusercontent.com/ChromeSD22159/chromeSD22159/main/assets/GithubBanner.jpg)](https://www.frederikkohler.de)
 
 ### Hi there 👋
 
