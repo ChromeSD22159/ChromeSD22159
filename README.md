@@ -7,6 +7,6 @@
 - 💻 Software developer
 - 👨‍👧‍👦 Single father
 - 🌱 Always learning web, iOS & Android development
-- 🏔 Hobbies include hiking, Pokemon, Dragon Ball, and eating
+- 🏔 Hobbies include hiking, Travel, Spain, and Basketball
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=chromesd22159&theme=dracula" />
