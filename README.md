@@ -13,3 +13,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chromesd22159&layout=compact)
 
+## 📫 How you can reach me
+
+- [Xing](https://www.xing.com/profile/Frederik_Kohler2)
+- [LinkedIn](https://www.linkedin.com/in/frederik-kohler/)
+- [Instagramm](https://www.instagram.com/frederik.code/)
+- [E-Mail](mailto:info@frederikkohler.de)
+- [Web](https://www.frederikkohler.de)
