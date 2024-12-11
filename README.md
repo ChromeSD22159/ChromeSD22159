@@ -1,5 +1,7 @@
 ## [![FrederikKohler header](https://raw.githubusercontent.com/ChromeSD22159/chromeSD22159/main/assets/GithubBanner.jpg)](https://www.frederikkohler.de)
 
+![Profilaufrufe](https://komarev.com/ghpvc/?username=ChromeSD22159&color=blue)
+
 ### Hi there 👋
 
 - 🚨 Website: [https://www.frederikkohler.de](https://www.frederikkohler.de)
